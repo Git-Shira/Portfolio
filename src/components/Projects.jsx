@@ -22,6 +22,13 @@ const Projects = () => {
       repoLink: "https://github.com/Git-Shira/CalendarPlus"
     },
     {
+      name: "Weather By City",
+      technologies: ["Vite", "React", "MUI", "JavaScript", "Node.js", "Express.js", "MongoDB", "Render", "Vercel"],
+      description: "A responsive weather website that allows users to search for locations worldwide, manage their saved locations, and view detailed, automatically updated weather forecasts, including current conditions and a 10-day outlook.",      image: "/images/Weather By City.png",
+      liveLink: "https://weather-by-city.vercel.app/",
+      repoLink: "https://github.com/Git-Shira/WeatherByCity"
+    },
+    {
       name: "Sweet Vibes",
       technologies: ["HTML", "CSS", "Bootstrap", "JavaScript", "Vercel"],
       description: "A bakery website with local storage-based data management. Customers can browse and filter the menu, while admins can update items. Includes full accessibility features for a user-friendly experience.",
